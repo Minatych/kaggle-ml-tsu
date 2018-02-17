@@ -14,4 +14,4 @@
     cd <proj-dir>
     virtualenv venv
     source ./venv/bin/activate
-    python3.6 -m pip install -r requarenments.txt.txt
+    python3.6 -m pip install -r requarenments.txt
