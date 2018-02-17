@@ -1,6 +1,6 @@
-## Git репозиторий для конкурса на kaggle от TSU ML Group
+# A repo for contest on kaggle from TSU ML Group
 
-# Requarenments
+## Requarenments
 
 * python 3.6
 * python-dev
@@ -8,7 +8,7 @@
 * virtualenv
 * the libraries listed in requaers.txt
 
-# installation guide
+## installation guide
 
     sudo apt-get install python-dev #ubuntu
     sudo pip install virtualenv
