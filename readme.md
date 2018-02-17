@@ -6,7 +6,7 @@
 * python-dev
 * pip
 * virtualenv
-* the libraries listed in requaers.txt
+* the libraries listed in requarenments.txt
 
 ## installation guide
 
