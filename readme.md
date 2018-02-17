@@ -10,9 +10,8 @@
 
 ## installation guide
 
-    sudo apt-get install python-dev #ubuntu
-    sudo pip install virtualenv
+    sudo python3.6 -m pip install virtualenv
     cd <proj-dir>
     virtualenv venv
     source ./venv/bin/activate
-    pip install -r requaers.txt
+    python3.6 -m pip install -r requarenments.txt.txt
